@@ -1,8 +1,5 @@
 package android.com.takepicture;
 
-/**
- * Created by yangzhiyuan on 2018/8/20.
- */
 
 public interface CameraInf
 {

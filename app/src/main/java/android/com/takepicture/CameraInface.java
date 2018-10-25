@@ -10,9 +10,6 @@ import android.view.SurfaceHolder;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by yangzhiyuan on 2018/8/20.
- */
 
 public class CameraInface implements CameraInf {
     private static final String TAG = "test";

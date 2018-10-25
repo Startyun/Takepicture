@@ -1,9 +1,5 @@
 package android.com.takepicture;
 
-/**
- * 作者 ： Nick杨
- * ＊ date ： 2017/5/17 11:40
- */
 
 import android.hardware.Camera;
 import android.hardware.Camera.Size;

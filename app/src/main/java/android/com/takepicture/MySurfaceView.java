@@ -7,9 +7,6 @@ import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-/**
- * Created by yangzhiyuan on 2018/8/20.
- */
 
 public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback,Camera.AutoFocusCallback {
 

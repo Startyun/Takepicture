@@ -1,9 +1,6 @@
 package android.com.takepicture;
 
-/**
- * 作者 ： Nick杨
- * ＊ date ： 2017/5/17 15:12
- */
+
 
 import android.content.Context;
 import android.graphics.Point;

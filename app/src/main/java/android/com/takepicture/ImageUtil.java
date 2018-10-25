@@ -1,8 +1,5 @@
 package android.com.takepicture;
-/**
- * 作者 ： Nick杨
- * ＊ date ： 2017/5/17 20:32
- */
+
 
 import android.graphics.Bitmap;
 import android.graphics.Matrix;
